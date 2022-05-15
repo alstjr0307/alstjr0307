@@ -15,5 +15,5 @@
 
 </p>
 <hr>
-BAEKJOON - GOLD3
+BAEKJOON - GOLD3<br>
 (Profile <a href='https://www.acmicpc.net/user/alstjr0307'> click</a>)
