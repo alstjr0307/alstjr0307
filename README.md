@@ -15,5 +15,6 @@
 
 </p>
 <hr>
+<a>Algorithm Study</a><br>
 BAEKJOON - GOLD3<br>
 (Profile <a href='https://www.acmicpc.net/user/alstjr0307'> click</a>)
